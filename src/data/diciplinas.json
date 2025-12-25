@@ -1,0 +1,572 @@
+[
+    {
+        "Semestre": 1,
+        "Código": "EXA614",
+        "Disciplina": "Tópicos de Formação Humanística",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 15,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 1,
+        "Código": "EXA854",
+        "Disciplina": "MI Algoritmos",
+        "Natureza": "MI",
+        "C.H. Total": 30,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": "EXA801"
+    },
+    {
+        "Semestre": 1,
+        "Código": "EXA861",
+        "Disciplina": "Introdução à Engenharia de Computação",
+        "Natureza": "MO",
+        "C.H. Total": 30,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 1,
+        "Código": "EXA801",
+        "Disciplina": "Algoritmos e Programação I",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": "EXA854"
+    },
+    {
+        "Semestre": 1,
+        "Código": "EXA543",
+        "Disciplina": "Introdução ao Cálculo",
+        "Natureza": "DO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 1,
+        "Código": "TEC497",
+        "Disciplina": "Introdução à Eletrônica",
+        "Natureza": "MO",
+        "C.H. Total": 30,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 1,
+        "Código": "TEC503",
+        "Disciplina": "Produção de Textos Técnicos e Acadêmicos",
+        "Natureza": "MO",
+        "C.H. Total": 30,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 2,
+        "Código": "-",
+        "Disciplina": "Componente Optativo de Formação Humanística",
+        "Natureza": "OH",
+        "C.H. Total": 45,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 2,
+        "Código": "EXA704",
+        "Disciplina": "Cálculo Diferencial e Integral I E",
+        "Natureza": "DO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA543",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 2,
+        "Código": "EXA806",
+        "Disciplina": "Estrutura de Dados",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA854; EXA801",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 2,
+        "Código": "TEC221",
+        "Disciplina": "Tópicos de Formação Complementar",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 15,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 2,
+        "Código": "TEC401",
+        "Disciplina": "Circuitos Digitais",
+        "Natureza": "MO",
+        "C.H. Total": 30,
+        "Extensão": 0,
+        "Pré-requisitos": "TEC497",
+        "Co-requisitos": "TEC498"
+    },
+    {
+        "Semestre": 2,
+        "Código": "TEC498",
+        "Disciplina": "MI Projeto de Circuitos Digitais",
+        "Natureza": "MI",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "TEC497; TEC503",
+        "Co-requisitos": "TEC401"
+    },
+    {
+        "Semestre": 3,
+        "Código": "EXA417",
+        "Disciplina": "Química Geral e de Materiais",
+        "Natureza": "DO",
+        "C.H. Total": 45,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 3,
+        "Código": "EXA702",
+        "Disciplina": "Algebra Vetorial e Geometria Analítica",
+        "Natureza": "DO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 3,
+        "Código": "EXA705",
+        "Disciplina": "Cálculo Diferencial e Integral II E",
+        "Natureza": "DO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA704",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 3,
+        "Código": "EXA807",
+        "Disciplina": "Estruturas Discretas",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA806",
+        "Co-requisitos": "EXA863; EXA805"
+    },
+    {
+        "Semestre": 3,
+        "Código": "EXA863",
+        "Disciplina": "MI Programação",
+        "Natureza": "MI",
+        "C.H. Total": 30,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA806; TEC503",
+        "Co-requisitos": "EXA805; EXA807"
+    },
+    {
+        "Semestre": 3,
+        "Código": "EXA805",
+        "Disciplina": "Algoritmos e Programação II",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA806",
+        "Co-requisitos": "EXA863; EXA807"
+    },
+    {
+        "Semestre": 4,
+        "Código": "EXA706",
+        "Disciplina": "Equações Diferenciais I E",
+        "Natureza": "DO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA705",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 4,
+        "Código": "FIS110",
+        "Disciplina": "Física I",
+        "Natureza": "DO",
+        "C.H. Total": 90,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA704",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 4,
+        "Código": "TEC402",
+        "Disciplina": "Arquitetura de Computadores",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "TEC401; TEC498",
+        "Co-requisitos": "TEC499"
+    },
+    {
+        "Semestre": 4,
+        "Código": "TEC408",
+        "Disciplina": "Sistemas Operacionais",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA863; EXA805",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 4,
+        "Código": "TEC499",
+        "Disciplina": "MI Sistemas Digitais",
+        "Natureza": "MI",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "TEC401; TEC498",
+        "Co-requisitos": "TEC402"
+    },
+    {
+        "Semestre": 5,
+        "Código": "EXA703",
+        "Disciplina": "Algebra Linear I E",
+        "Natureza": "DO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 5,
+        "Código": "FIS310",
+        "Disciplina": "Física III",
+        "Natureza": "DO",
+        "C.H. Total": 90,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA702; EXA705",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 5,
+        "Código": "TEC409",
+        "Disciplina": "Redes de Computadores",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "TEC408",
+        "Co-requisitos": "TEC502"
+    },
+    {
+        "Semestre": 5,
+        "Código": "TEC502",
+        "Disciplina": "MI Concorrência e Conectividade",
+        "Natureza": "MI",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "TEC408",
+        "Co-requisitos": "TEC409"
+    },
+    {
+        "Semestre": 5,
+        "Código": "EXA709",
+        "Disciplina": "Probabilidade e Estatística I-E",
+        "Natureza": "DO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA704",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 6,
+        "Código": "EXA810",
+        "Disciplina": "Banco de Dados",
+        "Natureza": "MO",
+        "C.H. Total": 30,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA863; EXA805",
+        "Co-requisitos": "EXA613; EXA809"
+    },
+    {
+        "Semestre": 6,
+        "Código": "EXA613",
+        "Disciplina": "MI Engenharia de Software",
+        "Natureza": "MI",
+        "C.H. Total": 60,
+        "Extensão": 30,
+        "Pré-requisitos": "EXA863; EXA805",
+        "Co-requisitos": "EXA809; EXA810"
+    },
+    {
+        "Semestre": 6,
+        "Código": "EXA616",
+        "Disciplina": "Empreendedorismo I",
+        "Natureza": "PE",
+        "C.H. Total": 60,
+        "Extensão": 15,
+        "Pré-requisitos": "60% da C.H. (MI+MO+DO)",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 6,
+        "Código": "EXA809",
+        "Disciplina": "Engenharia de Software",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA863; EXA805",
+        "Co-requisitos": "EXA613; EXA810"
+    },
+    {
+        "Semestre": 6,
+        "Código": "TEC217",
+        "Disciplina": "Métodos Computacionais",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA703; EXA706",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 6,
+        "Código": "TEC218",
+        "Disciplina": "Circuitos Elétricos",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "TEC497; EXA706; FIS310",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 6,
+        "Código": "-",
+        "Disciplina": "Componente Optativo Complementar",
+        "Natureza": "OC",
+        "C.H. Total": 45,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 7,
+        "Código": "-",
+        "Disciplina": "Componente Optativo Profissionalizante",
+        "Natureza": "OP",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 7,
+        "Código": "-",
+        "Disciplina": "Componente Optativo Profissionalizante",
+        "Natureza": "OP",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 7,
+        "Código": "TEC412",
+        "Disciplina": "Sinais e Sistemas",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "TEC217",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 7,
+        "Código": "TEC506",
+        "Disciplina": "MI Projetos de Circuitos Eletrônicos",
+        "Natureza": "MI",
+        "C.H. Total": 30,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA706; FIS310; TEC497; TEC218",
+        "Co-requisitos": "TEC219"
+    },
+    {
+        "Semestre": 7,
+        "Código": "TEC219",
+        "Disciplina": "Eletrônica Geral",
+        "Natureza": "MO",
+        "C.H. Total": 30,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA706; FIS310; TEC497; TEC218",
+        "Co-requisitos": "TEC506"
+    },
+    {
+        "Semestre": 8,
+        "Código": "-",
+        "Disciplina": "Componente Optativo Profissionalizante",
+        "Natureza": "OP",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 8,
+        "Código": "-",
+        "Disciplina": "Componente Optativo Profissionalizante",
+        "Natureza": "OP",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 8,
+        "Código": "EXA615",
+        "Disciplina": "Ética em Computação",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 15,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 8,
+        "Código": "TEC430",
+        "Disciplina": "Processamento Digital de Sinais",
+        "Natureza": "MO",
+        "C.H. Total": 30,
+        "Extensão": 0,
+        "Pré-requisitos": "TEC401; TEC412",
+        "Co-requisitos": "TEC513; TEC501"
+    },
+    {
+        "Semestre": 8,
+        "Código": "TEC513",
+        "Disciplina": "MI Processamento Digital de Sinais",
+        "Natureza": "MI",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "TEC401; TEC412",
+        "Co-requisitos": "TEC430; TEC501"
+    },
+    {
+        "Semestre": 8,
+        "Código": "TEC517",
+        "Disciplina": "Metodologia da Pesquisa e Dev. em Eng. Comp.",
+        "Natureza": "MO",
+        "C.H. Total": 30,
+        "Extensão": 0,
+        "Pré-requisitos": "70% da C.H. (MI+MO+DO)",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 8,
+        "Código": "TEC501",
+        "Disciplina": "Eletrônica para Processamento Digital de Sinais",
+        "Natureza": "MO",
+        "C.H. Total": 30,
+        "Extensão": 0,
+        "Pré-requisitos": "TEC219",
+        "Co-requisitos": "TEC513; TEC430"
+    },
+    {
+        "Semestre": 9,
+        "Código": "-",
+        "Disciplina": "Componente Optativo Profissionalizante",
+        "Natureza": "OP",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 9,
+        "Código": "-",
+        "Disciplina": "Componente Optativo Profissionalizante",
+        "Natureza": "OP",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": null,
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 9,
+        "Código": "EXA544",
+        "Disciplina": "Linguagens Formais e Compiladores",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA863; EXA805",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 9,
+        "Código": "EXA813",
+        "Disciplina": "Análise e Projeto de Algoritmos",
+        "Natureza": "MO",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "EXA705; EXA807",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 9,
+        "Código": "TEC518",
+        "Disciplina": "Trabalho de Conclusão de Curso I",
+        "Natureza": "TC",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "TEC517",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 9,
+        "Código": "EXA622",
+        "Disciplina": "Extensão em Computação I",
+        "Natureza": "EXT",
+        "C.H. Total": 90,
+        "Extensão": 90,
+        "Pré-requisitos": "20% da C.H. total",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 10,
+        "Código": "EXA612",
+        "Disciplina": "Estágio",
+        "Natureza": "ES",
+        "C.H. Total": 255,
+        "Extensão": 0,
+        "Pré-requisitos": "40% da C.H. total",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 10,
+        "Código": "TEC222",
+        "Disciplina": "Trabalho de Conclusão de Curso II",
+        "Natureza": "TC",
+        "C.H. Total": 60,
+        "Extensão": 0,
+        "Pré-requisitos": "TEC518",
+        "Co-requisitos": null
+    },
+    {
+        "Semestre": 10,
+        "Código": "TEC224",
+        "Disciplina": "Extensão em Computação II",
+        "Natureza": "EXT",
+        "C.H. Total": 90,
+        "Extensão": 90,
+        "Pré-requisitos": "20% da C.H. total",
+        "Co-requisitos": null
+    }
+]
