@@ -1,3 +1,4 @@
+// src/models/Disciplina.ts
 export interface Disciplina {
   codigo: string;
   nome: string;

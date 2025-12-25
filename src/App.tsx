@@ -9,7 +9,7 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
   console.log(disciplinas.length);
-
+  console.log(disciplinas[7]);
 
   return (
     <>
