@@ -1,0 +1,58 @@
+Semestre,Código,Disciplina,Natureza,C.H. Total,Extensão,Pré-requisitos,Co-requisitos
+1,EXA614,Tópicos de Formação Humanística,MO,60,15,"""""",""""""
+1,EXA854,MI Algoritmos,MI,30,0,"""""",EXA801
+1,EXA861,Introdução à Engenharia de Computação,MO,30,0,"""""",""""""
+1,EXA801,Algoritmos e Programação I,MO,60,0,"""""",EXA854
+1,EXA543,Introdução ao Cálculo,DO,60,0,"""""",""""""
+1,TEC497,Introdução à Eletrônica,MO,30,0,"""""",""""""
+1,TEC503,Produção de Textos Técnicos e Acadêmicos,MO,30,0,"""""",""""""
+2,-,Componente Optativo de Formação Humanística,OH,45,0,"""""",""""""
+2,EXA704,Cálculo Diferencial e Integral I E,DO,60,0,EXA543,""""""
+2,EXA806,Estrutura de Dados,MO,60,0,EXA854; EXA801,""""""
+2,TEC221,Tópicos de Formação Complementar,MO,60,15,"""""",""""""
+2,TEC401,Circuitos Digitais,MO,30,0,TEC497,TEC498
+2,TEC498,MI Projeto de Circuitos Digitais,MI,60,0,TEC497; TEC503,TEC401
+3,EXA417,Química Geral e de Materiais,DO,45,0,"""""",""""""
+3,EXA702,Algebra Vetorial e Geometria Analítica,DO,60,0,"""""",""""""
+3,EXA705,Cálculo Diferencial e Integral II E,DO,60,0,EXA704,""""""
+3,EXA807,Estruturas Discretas,MO,60,0,EXA806,EXA863; EXA805
+3,EXA863,MI Programação,MI,30,0,EXA806; TEC503,EXA805; EXA807
+3,EXA805,Algoritmos e Programação II,MO,60,0,EXA806,EXA863; EXA807
+4,EXA706,Equações Diferenciais I E,DO,60,0,EXA705,""""""
+4,FIS110,Física I,DO,90,0,EXA704,""""""
+4,TEC402,Arquitetura de Computadores,MO,60,0,TEC401; TEC498,TEC499
+4,TEC408,Sistemas Operacionais,MO,60,0,EXA863; EXA805,""""""
+4,TEC499,MI Sistemas Digitais,MI,60,0,TEC401; TEC498,TEC402
+5,EXA703,Algebra Linear I E,DO,60,0,"""""",""""""
+5,FIS310,Física III,DO,90,0,EXA702; EXA705,""""""
+5,TEC409,Redes de Computadores,MO,60,0,TEC408,TEC502
+5,TEC502,MI Concorrência e Conectividade,MI,60,0,TEC408,TEC409
+5,EXA709,Probabilidade e Estatística I-E,DO,60,0,EXA704,""""""
+6,EXA810,Banco de Dados,MO,30,0,EXA863; EXA805,EXA613; EXA809
+6,EXA613,MI Engenharia de Software,MI,60,30,EXA863; EXA805,EXA809; EXA810
+6,EXA616,Empreendedorismo I,PE,60,15,60% da C.H. (MI+MO+DO),""""""
+6,EXA809,Engenharia de Software,MO,60,0,EXA863; EXA805,EXA613; EXA810
+6,TEC217,Métodos Computacionais,MO,60,0,EXA703; EXA706,""""""
+6,TEC218,Circuitos Elétricos,MO,60,0,TEC497; EXA706; FIS310,""""""
+6,-,Componente Optativo Complementar,OC,45,0,"""""",""""""
+7,-,Componente Optativo Profissionalizante,OP,60,0,"""""",""""""
+7,-,Componente Optativo Profissionalizante,OP,60,0,"""""",""""""
+7,TEC412,Sinais e Sistemas,MO,60,0,TEC217,""""""
+7,TEC506,MI Projetos de Circuitos Eletrônicos,MI,30,0,EXA706; FIS310; TEC497; TEC218,TEC219
+7,TEC219,Eletrônica Geral,MO,30,0,EXA706; FIS310; TEC497; TEC218,TEC506
+8,-,Componente Optativo Profissionalizante,OP,60,0,"""""",""""""
+8,-,Componente Optativo Profissionalizante,OP,60,0,"""""",""""""
+8,EXA615,Ética em Computação,MO,60,15,"""""",""""""
+8,TEC430,Processamento Digital de Sinais,MO,30,0,TEC401; TEC412,TEC513; TEC501
+8,TEC513,MI Processamento Digital de Sinais,MI,60,0,TEC401; TEC412,TEC430; TEC501
+8,TEC517,Metodologia da Pesquisa e Dev. em Eng. Comp.,MO,30,0,70% da C.H. (MI+MO+DO),""""""
+8,TEC501,Eletrônica para Processamento Digital de Sinais,MO,30,0,TEC219,TEC513; TEC430
+9,-,Componente Optativo Profissionalizante,OP,60,0,"""""",""""""
+9,-,Componente Optativo Profissionalizante,OP,60,0,"""""",""""""
+9,EXA544,Linguagens Formais e Compiladores,MO,60,0,EXA863; EXA805,""""""
+9,EXA813,Análise e Projeto de Algoritmos,MO,60,0,EXA705; EXA807,""""""
+9,TEC518,Trabalho de Conclusão de Curso I,TC,60,0,TEC517,""""""
+9,EXA622,Extensão em Computação I,EXT,90,90,20% da C.H. total,""""""
+10,EXA612,Estágio,ES,255,0,40% da C.H. total,""""""
+10,TEC222,Trabalho de Conclusão de Curso II,TC,60,0,TEC518,""""""
+10,TEC224,Extensão em Computação II,EXT,90,90,20% da C.H. total,""""""
